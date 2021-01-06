@@ -1,15 +1,3 @@
 # webpack-configuracion-estandar
 
-## Nota
-Para reconstruir los módulos de node deben de ejecutar este comando
-
-```
-npm install o npm i
-```
-
-Y para crear nuevamente el DIST
-
-```
-npm start
-```
-# webpackcleanegg
+ToDo de practica, Html descargado de internet, se hace la parte lógica de la aplicación y datos persistentes mediante LocalStorage.

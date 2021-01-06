@@ -7,6 +7,7 @@ const txtInput = document.querySelector(".new-todo");
 const delCompBtn = document.querySelector(".clear-completed");
 const ulFilters = document.querySelector('.filters');
 const anchorFiltros = document.querySelectorAll('.filtros');
+const contadorTareas = document.querySelector('.todo-count');
 
 
 
